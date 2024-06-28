@@ -1,1 +1,1 @@
-# ENCRYPTIX
+## ENCRYPTIX Intership Projects
